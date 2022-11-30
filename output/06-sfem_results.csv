@@ -1,10 +1,10 @@
 ,Estimates
 beta,0.96
-s03_tft,0.3267
+s03_tft,0.3266
 s10_grim,0.1439
 s02_alld,0.122
-s04_dtft,0.0976
-s07_2tft,0.078
+s04_dtft,0.0975
+s07_2tft,0.0781
 s05_tf2t,0.0737
 s01_allc,0.0488
 s13_wsls,0.0245
