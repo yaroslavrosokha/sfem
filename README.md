@@ -4,4 +4,4 @@ Method to estimate proportions of strategies in the data proposed by Dal Bo and 
 
 If you are going to use any of this code, please cite
 - Romero, J. and Rosokha, Y., 2018. [Constructing strategies in the indefinitely repeated prisoner’s dilemma game.](https://www.sciencedirect.com/science/article/pii/S0014292118300394) European Economic Review, 104, pp.185-219.
-- Rosokha, Y. and Wei, C, 2024. [Constructing strategies in the indefinitely repeated prisoner’s dilemma game.](https://doi.org/10.1287/mnsc.2020.00603) Management Science.
+- Rosokha, Y. and Wei, C, 2024. [Cooperation in Queueing Systems.](https://doi.org/10.1287/mnsc.2020.00603) Management Science.
